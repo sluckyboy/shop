@@ -1,0 +1,54 @@
+[ 2017-05-05T22:06:44+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-05T22:09:21+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-05T22:09:22+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-05T22:09:23+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-05T22:18:16+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-05T22:18:17+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-05T22:18:18+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-05T22:18:18+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-05T22:18:18+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-05T22:18:19+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-05T22:24:57+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-05T22:24:58+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-05T22:24:58+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-05T22:24:58+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-05T22:24:59+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-05T22:24:59+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-05T22:24:59+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2017-05-05T22:24:59+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
